@@ -1,6 +1,4 @@
-Batuhan Budak
-21704212
-I have used C++ as a programming language in this assignment.
+I have used C++ as a programming language.
 The program consists of 3 different exact string matching algorithms: Brute Force, Knuth-Morris-Pratt, and Boyer-Moore.
 The program reads text and pattern files in FATSA format and uses an argument parser to get their names. Also, it takes which algorithm to run
 from the argument parser. The program calculates specified algorithms' run times and prints them.
