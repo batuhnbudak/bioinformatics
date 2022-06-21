@@ -1,5 +1,3 @@
-Batuhan Budak
-21704212
 I have used Python as a programming language in this assignment.
 The program is an implementation of an algorithm that is very similar to BLAST
 
