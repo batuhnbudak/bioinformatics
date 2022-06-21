@@ -1,5 +1,3 @@
-Batuhan Budak
-21704212
 I have used C++ as a programming language in this assignment.
 The program is implementation of Aho-Corasick algorithm.
 To implement Aho-Corasick first I have implemented Trie data structure by using struct Nodes
