@@ -8,3 +8,5 @@ After implementing these methods, I created a method named multipleAllignment() 
 In this method, the program first calls createProfile() method to create the sequences' profile; then, it creates a dynamic programming and backtracking
 table. After creating these tables, it backtraces the backtrack table and forms alignment. Then the program writes this alignment into
 the .txt file whose name is taken by arg parsing.
+
+You can use seq.fasta and seqs.aln files to test.
